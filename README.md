@@ -1,4 +1,4 @@
-## Álex Sousa
+# Álex Sousa
 
 WEB Developer & Competitive Programming enthusiast
 
